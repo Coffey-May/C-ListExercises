@@ -1,0 +1,10 @@
+/Users/coffeymay/workspace/listexercises/bin/Debug/netcoreapp3.1/listexercises.deps.json
+/Users/coffeymay/workspace/listexercises/bin/Debug/netcoreapp3.1/listexercises.runtimeconfig.json
+/Users/coffeymay/workspace/listexercises/bin/Debug/netcoreapp3.1/listexercises.runtimeconfig.dev.json
+/Users/coffeymay/workspace/listexercises/bin/Debug/netcoreapp3.1/listexercises.dll
+/Users/coffeymay/workspace/listexercises/bin/Debug/netcoreapp3.1/listexercises.pdb
+/Users/coffeymay/workspace/listexercises/obj/Debug/netcoreapp3.1/listexercises.csprojAssemblyReference.cache
+/Users/coffeymay/workspace/listexercises/obj/Debug/netcoreapp3.1/listexercises.AssemblyInfoInputs.cache
+/Users/coffeymay/workspace/listexercises/obj/Debug/netcoreapp3.1/listexercises.AssemblyInfo.cs
+/Users/coffeymay/workspace/listexercises/obj/Debug/netcoreapp3.1/listexercises.dll
+/Users/coffeymay/workspace/listexercises/obj/Debug/netcoreapp3.1/listexercises.pdb
